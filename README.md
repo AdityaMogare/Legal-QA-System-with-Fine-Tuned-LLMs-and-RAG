@@ -213,8 +213,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## 🙏 Acknowledgments
-
-- [JurisPrae Model](https://huggingface.co/Enfysyz/JurisPrae) by Enfysyz
 - Hugging Face for model hosting and inference API
 - The open-source community for the amazing tools and libraries
 
