@@ -2,7 +2,7 @@
 
 A scalable Legal Question Answering (QA) system that combines fine-tuned open-source Language Models (LLaMA, Mistral) with Retrieval-Augmented Generation (RAG) to deliver accurate, explainable answers from 100K+ U.S. legal documents.
 
-**🌐 Live Web Application**: Access the system through a modern React frontend with FastAPI backend, connecting to the [JurisPrae model](https://huggingface.co/Enfysyz/JurisPrae) on Hugging Face.
+**🌐 Live Web Application**: Access the system through a modern React frontend with FastAPI backend, connecting to the [JurisPrae model](https://huggingface.co/AdityaMogare/LurisQA) on Hugging Face.
 
 ---
 
